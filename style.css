@@ -1,0 +1,26 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Write your CSS below, don't change the rules above. */
+p {
+  color: red;  
+}
+
+.blue4{
+  color:blue;
+}
+
+
+.note3{
+  color: green;
+  margin-left: 20px;;
+
+}
+body {
+  font-size: 15px;
+  font-weight: bold;
+  text-align: center;
+}
